@@ -26,7 +26,7 @@ Komal Akhlaq
 
 ## Introduction:
 
-This project develops an artificial intelligence model to predict the magnitude and depth of earthquakes based on the location and time of occurrence. A machine learning approach utilizing neural networks is employed for modelling. The network architectures are designed, trained, and evaluated for accuracy using regression metrics. Visualizations of earthquake data provide further insights into the model's performance.
+This project develops an artificial intelligence model to predict the magnitude of earthquakes based on the location and time of occurrence. A machine learning approach utilizing neural networks is employed for modelling. The network architectures are designed, trained, and evaluated for accuracy using regression metrics. Visualizations of earthquake data provide further insights into the model's performance.
 
 ## Installations:
 
