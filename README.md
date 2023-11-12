@@ -1,5 +1,5 @@
 # Earthquake Predictor
-
+![Affected Areas](newplot6.png)
 ## Table of Contents
 
 - [Authors](#authors)
